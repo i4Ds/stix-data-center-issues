@@ -2,7 +2,7 @@
 
 The Spectrometer Telescope for Imaging X-rays (STIX) is one of the ten instruments onboard Solar Orbiter.  
 It measures X-rays from 4 to 150 keV and takes X-ray images with a few arcsec angular resolution by using an indirect imaging technique,
-based on the Moiré effect.  
+based on the Moire effect.  
 During nominal science operations, STIX continuously acquires data. They are compressed and formatted into different types of telemetry packets onboard by 
 STIX onboard data processing unit. The total number of telemetry packets reaches hundreds. 
 Being aware of the complexity of STIX data analysis and 
